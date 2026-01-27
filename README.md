@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 About
 
-<!--
-**Chloractus/Chloractus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌐 Tech-Related Interests
 
-Here are some ideas to get you started:
+## 📜 Programming Languages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏅 Certifications
+
+<div style= "display: flex; gap: 20px; flex-wrap: wrap;">
+  <img src="https://images.credly.com/images/b790eb12-ecb3-4b94-89be-61aa40c92e7c/image.png" alt="[PCEP-30-02] PCEP™ – Certified Entry-Level Python Programmer" width=100px height=100px/>
+  <img src="https://images.credly.com/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png" alt="Python Essentials 1" width=100px height=100px/>
+  <img src="https://images.credly.com/size/160x160/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" alt="Introduction to Cybersecurity" width=100px height=100px/>
+  <img src="https://images.credly.com/images/09b6d58c-763a-4b40-aea1-787d8f46bbcd/Intro2PT.png" alt="Introduction to Packet Tracer" width=100px height=100px/>
+  <img src="https://ky216.cap.gov/media/cms/cyberpatriot_A528E0326810D.png" alt="CyberPatriot Participation" width=100px height=100px/>
+</div>
